@@ -154,31 +154,31 @@ This project marked a personal shift from:
 
 ### 🏠 Home Experience
 
-![Home Page](assets/screenshots/landing.png)
+![Home Page](assets/screenshots/01-landing.png)
 
 ---
 
 ### 🎓 Student Experience
 
-![Student Dashboard](assets/screenshots/student-dashboard.png)
+![Student Dashboard](assets/screenshots/02-student-dashboard.png)
 
 ---
 
 ### ⚙️ Admin Experience
 
-![Admin Dashboard](assets/screenshots/admin-dashboard.png)
+![Admin Dashboard](assets/screenshots/03-admin-dashboard.png)
 
 ---
 
 ### 🔐 Authentication Experience
 
-![Login Page](assets/screenshots/login.png)
+![Login Page](assets/screenshots/04-login.png)
 
 ---
 
 ### 📚 Course Experience
 
-![Course Detail](assets/screenshots/course-detail.png)
+![Course Detail](assets/screenshots/05-course-detail.png)
 
 ---
 
