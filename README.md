@@ -142,9 +142,9 @@ This project marked a personal shift from:
 | Layer | Technology | Engineering Purpose |
 |---|---|---|
 | Framework | Next.js 14 (App Router) | Routing, Server Actions, rendering architecture |
-| Language | TypeScript | Type-safe application structure |
+| Language | TypeScript | Type safe application structure |
 | Database | MongoDB + Mongoose | Flexible schema modeling |
-| Styling | Tailwind CSS | Utility-first responsive UI system |
+| Styling | Tailwind CSS | Utility first responsive UI system |
 | Media Layer | Uploadthing / Cloudinary | Secure asset uploads |
 | Authentication | JWT Authentication | Protected routes & session management |
 
@@ -154,31 +154,31 @@ This project marked a personal shift from:
 
 ### 🏠 Home Experience
 
-![Home Page](./assets/screenshots/landing.png)
+![Home Page](assets/screenshots/landing.png)
 
 ---
 
 ### 🎓 Student Experience
 
-![Student Dashboard](./assets/screenshots/student-dashboard.png)
+![Student Dashboard](assets/screenshots/student-dashboard.png)
 
 ---
 
 ### ⚙️ Admin Experience
 
-![Admin Dashboard](./assets/screenshots/admin-dashboard.png)
+![Admin Dashboard](assets/screenshots/admin-dashboard.png)
 
 ---
 
 ### 🔐 Authentication Experience
 
-![Login Page](./assets/screenshots/login.png)
+![Login Page](assets/screenshots/login.png)
 
 ---
 
 ### 📚 Course Experience
 
-![Course Detail](./assets/screenshots/course-detail.png)
+![Course Detail](assets/screenshots/course-detail.png)
 
 ---
 
